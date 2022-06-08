@@ -13,7 +13,7 @@ This sample application is featured in our [book](http://goo.gl/gKEsIo) where yo
 <a href="http://goo.gl/gKEsIo"><img src="http://www.packtpub.com/sites/default/files/1820OS.jpg"></a>
 
 We've learned a lot while using and supporting AngularJS on the [mailing list](https://groups.google.com/group/angular) and would like to share our experience.
-
+test
 ## Stack
 
 * Persistence store: [MongoDB](http://www.mongodb.org/) hosted on [MongoLab](https://mongolab.com/)
